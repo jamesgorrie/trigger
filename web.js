@@ -11,8 +11,8 @@ const apis = {
 		prod: 'http://discussion.guardianapis.com/discussion-api/'
 	},
 	content: {
-		code: '***REMOVED***',
-		prod: '***REMOVED***'
+		code: '',
+		prod: ''
 	}
 };
 
